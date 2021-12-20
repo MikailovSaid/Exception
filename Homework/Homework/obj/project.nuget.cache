@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fnf1K28rLlZ+h1gTYzmKpSWmBcFHPf/1IROsZMxnfIA7qRBEdWbjaYGufdy1g8YaISRgsPqfesWDQ0cmmTkXGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikay\\OneDrive\\Рабочий стол\\P126\\Exceptions\\Homework\\Homework\\Homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

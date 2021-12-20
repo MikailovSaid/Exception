@@ -1,0 +1,14 @@
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.exe
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.deps.json
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.json
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.dev.json
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.dll
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.AssemblyReference.cache
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.dll
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Exceptions\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.genruntimeconfig.cache
